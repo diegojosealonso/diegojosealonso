@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego José Alonso</h1>
+<h1 align="center">Hi 👋, I'm Jo</h1>
 <h3 align="center">A very creative beginner</h3>
 
 <h3 align="left">Connect with me:</h3>
