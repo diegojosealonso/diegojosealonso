@@ -23,11 +23,8 @@
 <br/>
 
 <p>
-  <a href="TU_ENLACE_DE_LINKEDIN" target="_blank" rel="noreferrer">
+  <a href="[TU_ENLACE_DE_LINKEDIN](https://www.linkedin.com/in/diegojosealonso)" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:TU_CORREO@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
